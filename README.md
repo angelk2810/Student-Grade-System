@@ -21,16 +21,6 @@ The Student Grade Management System is a simple C program that allows users to i
 | 40 - 59    | D     |
 | Below 40   | F     |
 
-## How to Run the Program
-
-1. **Compile the Program:**
-   ```sh
-   gcc student_grade_system.c -o student_grade_system
-   ```
-2. **Run the Executable:**
-   ```sh
-   ./student_grade_system
-   ```
 
 ## Input Format
 
